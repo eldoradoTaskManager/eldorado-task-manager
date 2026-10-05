@@ -2,8 +2,8 @@ Eldorado Task Manager — Support & Privacy
 1. Support & Contact
 Thank you for using Eldorado Task Manager! If you have any questions, encounter a bug, or want to request a feature, please reach out directly:
 • Email: eldoradotaskmanager@gmail.com
-• Response Time: I am a solo developer, but I try to respond to all support requests within 24 hours.
-Please include your Mac OS version in the email if you are reporting a bug.
+• Response Time: I will respond to all support requests within 24 hours.
+If you're reporting a bug, please include your Mac OS version in the email.
 
 2. Privacy Policy
 This policy outlines how Eldorado Task Manager handles information.
